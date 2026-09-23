@@ -26,7 +26,8 @@
 
 ```bash
 # 方式一：直接运行 Release 中的可执行程序
-九宫格.exe
+# Release v1.0.0 附件：JiuGongGe.exe（即九宫格.exe，GitHub 资产名不支持中文故用拼音）
+JiuGongGe.exe
 
 # 方式二：源码编译
 # 1. 安装 EasyX：https://easyx.cn
